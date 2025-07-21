@@ -6,6 +6,12 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://shanksmakesstuff.xyz/</link>
+    <guid>https://shanksmakesstuff.xyz/</guid>
+    <description> window.location.href = `shashankraocding.github.io/thinkpythonically/Thin_Pythonically.` .page-title { font-size: 1.70rem; } .</description>
+    <pubDate>Mon, 21 Jul 2025 13:59:24 GMT</pubDate>
+  </item><item>
     <title>Chapter-4-Question-1-Answer</title>
     <link>https://shanksmakesstuff.xyz/shashankraocoding.github.io/thinkpythonically/Chapter-4-Question-1-Answer</link>
     <guid>https://shanksmakesstuff.xyz/shashankraocoding.github.io/thinkpythonically/Chapter-4-Question-1-Answer</guid>
@@ -23,12 +29,6 @@
     <guid>https://shanksmakesstuff.xyz/Chapter-4-Question-1-Answer</guid>
     <description>Below, I have presented 2 answers. One uses dictionaries, while the other does not.</description>
     <pubDate>Mon, 21 Jul 2025 13:40:12 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://shanksmakesstuff.xyz/</link>
-    <guid>https://shanksmakesstuff.xyz/</guid>
-    <description> window.location.href = `shashankraocding.github.io/thinkpythonically&#039;Think-Pythonically.html` .page-title { font-size: 1.70rem; } .</description>
-    <pubDate>Thu, 12 Jun 2025 21:00:22 GMT</pubDate>
   </item>
     </channel>
   </rss>
